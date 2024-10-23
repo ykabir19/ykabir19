@@ -5,6 +5,7 @@ I’m a Data enthusiast and problem solver with a strong passion for extracting 
 - Languages: SQL, Python
 - Databases: MySQL, PostgreSQL, SQL Server, Snowflake
 - Visualisation: Power BI
+- Version Control: Git, Gitlab, Github
 
 ## 📂 Projects
 Welcome to my portfolio where i showcase my [projects](https://github.com/ykabir19/Projects)
