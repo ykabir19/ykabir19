@@ -7,7 +7,7 @@ I’m a Data enthusiast and problem solver with a strong passion for extracting 
 - Visualisation: Power BI
 
 ## 📂 Projects
-Welcome to my portfolio where i showcase my work ...
+Welcome to my portfolio where i showcase my [projects](https://github.com/ykabir19/Projects)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/yasir-kabir/)
