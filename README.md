@@ -4,7 +4,7 @@ I’m a Data enthusiast and problem solver with a strong passion for extracting 
 ## 🛠️ Tech Stack
 - Languages: SQL, Python
 - Databases: MySQL, PostgreSQL, SQL Server, Snowflake
-- Visualisation: Power BI
+- Visualisation: Power BI, Tableau
 - Version Control: Git, Gitlab, Github
 
 ## 📂 Projects
